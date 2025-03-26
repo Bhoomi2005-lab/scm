@@ -1,0 +1,1 @@
+- Add README\n- Improve styling\n- Fix bug #3
